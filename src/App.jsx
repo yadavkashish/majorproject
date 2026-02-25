@@ -431,7 +431,7 @@ export default function App() {
             className="flex items-center space-x-3 focus:outline-none focus:ring-2 focus:ring-white rounded-lg p-1"
           >
             <Volume2 className="h-8 w-8 text-indigo-300" />
-            <h1 className="text-2xl font-bold tracking-wide hidden sm:block">VoiceBuddy AI <span className="text-indigo-300 font-normal text-lg">NCERT</span></h1>
+            <h1 className="text-2xl font-bold tracking-wide hidden sm:block">VoiceMate AI <span className="text-indigo-300 font-normal text-lg">NCERT</span></h1>
           </button>
           
           {/* Voice Command Toggle */}
